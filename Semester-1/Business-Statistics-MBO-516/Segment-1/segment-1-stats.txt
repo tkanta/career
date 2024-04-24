@@ -1,0 +1,180 @@
+
+Segment-1: Descriptive Statistics
+----------------------------------
+What you'll learn
+	Introduction to Data Analysis 
+	Types of Data 
+	Visual Representation of Data 
+	Numerical Representation of Data- Part-1
+	Numerical Representation of Data- Part-2
+
+
+Segment Introduction
+----------------------------
+Learning Objectives
+After completing this segment, you should be able to:
+ 
+list out the common responsibilities of a data analyst
+	distinguish between descriptive statistics and inferential statistics
+	distinguish between qualitative and quantitative variables, and identify variables with different measurement scales
+	create visual representations of data using Microsoft Excel
+	calculate numerical descriptions of data using Microsoft Excel.	
+
+Video 1 - Introduction to Data Analysis
+-----------------------------------------
+RM - Topic 1- Introduction to Data Analysis
+--------------------------------------------
+Sampling : The process of selecting a subset of population with a view to
+study the characteristics of that population.
+Estimation: The process of inferring the value of an unknown parameter using
+sampling.
+Hypothesis: testing The process of testing whether a statement regarding a population
+parameter is true using sampling.
+Descriptive statistics: Numerical values are computed and used to describe the values in
+a data set.
+Inferential Statistics: Drawing meaningful predictions from the data by using estimation
+and hypothesis testing.	
+
+Video 2 - Types of Data
+--------------------------
+RM - Topic 2 - Types of Data
+--------------------------
+Segment: Descriptive Statistics
+Topic: Types of Data
+
+Measurements:
+	
+	Nominal Scale - 'Nominal' stands for 'name' of category. Such data can only be used to identify or classify a person or thing
+	Ordinal Scale - In the ordinal scale or measurement, data elements may be ordered according to their relative size or quality
+	Interval Scale - In this case, only the intervals can be compared to produce meaningful ratios
+	 Ratio Scale - If two measurements are in ratio scale, then we can take ratios of those measurements. The zero in the scale is absolute zero
+
+Video 3 - Visual Representation of Data
+------------------------------------------
+Tables:
+	Frequency, Pivot	 
+Charts
+	Histogram, pie, bar
+Graphs
+	scatter plot, line graph
+
+* Pie and bar charts can be used for both qualitative and quantitative data, while histograms are
+for quantitative data.
+
+Demo 1- Frequency Distribution Using Pivot Table (Univariate)
+-------------------------------------------------------------
+
+Demo 2 - Bivariate Frequency Distribution
+------------------------------------------
+
+Demo 3 - Bar and Pie Chart
+--------------------------
+
+Demo 4 - Histogram
+------------------	
+
+Demo 5 - Scatter Diagram
+---------------------------
+
+Video 4 - Numerical Representation of Data - Part I
+--------------------------------------------------
+
+Video 5 - Numerical Representation of Data - Part II
+----------------------------------------------------
+* What's the 95th percentile? In networking, the 95th percentile is the highest value remaining after the top 5% of a data set is removed. For example, if you have 100 data points, you begin by removing the five largest values. The highest value left represents the 95th percentile.
+
+
+Exercise 1 - Mean, Median, and Mode
+---------------------------------------
+Book: Anderson and swiney
+
+120 230 110 115 160 130 150 105 195 155
+105 360 120 120 140 100 115 180 235 255
+
+100, 105, 105, 110, 115, 115, 120, 120, 120, 130, 140, 150, 155, 160, 180, 195, 230, 235, 255, 360
+
+Mean : 3200 / 20 = 160
+Median : 130+140/2 = 130
+Mode: 120
+
+Solution 2 (Demo) - Weighted and Combined Mean
+--------------------------------------------------
+Weighted mean
+	Xw = Sum(Xi * Wi) / Sum(Wi)
+
+Combined Mean
+	n1=30, X1 = 40
+	n2=50, x2=60
+
+	X12 = (n1*x1 + n2*x2) / (n1+n2)
+	X12 = (30*40+50*60) / (30+50) = 4200/80 = 52.5
+
+Exercise 3 - Covariance and Correlation coefficient
+---------------------------------------------------
+A department of transportation’s study on driving speed and miles per gallon for midsize automobiles resulted in the following data: Speed 
+(Miles per Hour): 30 50 40 55 30 25 60 25 50 55 
+Miles per Gallon: 28 25 25 23 30 32 21 35 26 25 
+a) Develop a scatter diagram and comment. b) Compute and interpret the sample covariance and sample correlation coefficient
+
+Solution:
+	* When we say speed and mileage are negatively correlated, it means that typically, as you increase the speed of the vehicle, its mileage or fuel efficiency tends to decrease. This is a common observation due to factors such as increased air resistance (drag) at higher speeds, which requires more energy (fuel) to maintain the same pace. Therefore, when you drive faster, you tend to get fewer miles per gallon or kilometers per liter.
+
+	Mean: X_, Y_
+	Sample covariance: Sxy = Sum[(Xi-X_)(Yi-Y_)] / n-1 = -52.7
+	Corelation Coefficient: Rxy = Sxy / Sx * Sy = -0.91 
+	Std Deviation Sx = Sqrt [Sum{sqare(Xi-X_)} / n-1]
+	Std Deviation Sy = Sqrt [Sum{sqare(Yi-Y_)} / n-1]
+
+
+
+Exercise 4- Mean, Range & Standard Deviation
+---------------------------------------------
+For the following data on number of days required to fill orders for Dawson Supply, Inc., and J.C.
+Clark Distributors, find the range and standard deviation. Also find who is more consistent and
+reliable delivery times.
+X: Dawson Supply Days for Delivery: 11 10 9 10 11 11 10 11 10 10
+Y: Clark Distributors Days for Delivery: 8 10 13 7 10 11 10 7 15 12
+
+Range = High - Low
+	Rx = 11-9=2
+	Ry = 15-7=8
+
+	More the variance, lesser the consistency
+
+Std Deviation
+	Std Deviation: Sx = sqrt [sum{ square(Xi-X_)} / n-1]
+	Coefficient of variation(c.v) = (Sx / Mean(x)) * 100
+
+	Sx = 0.67
+	Sy = 2.58
+	C.V(X) = 6.5%
+	C.V(Y) = 25.05%
+
+	If c.v is less, it is more consistent
+
+Solution (Demo) Descriptive Statistics Using Excel
+-------------------------------------------------
+
+File -> option -> Addin -> Analsis Toolpak
+Data Analysis -> Descriptive Stats
+
+
+RM - Topic 4 - Numerical Representation of Data
+---------------------------------------------------
+
+The mean has an additional desirable mathematical property:
+
+	* The deviations of all the data points from the mean will add to zero. For example, the mean of
+	the data set {5, 7, 8, 10, 10} is 8. The deviations from the mean are {-3, -1, 0, +2, +2} and these
+	deviations add to zero. 
+	* In a data set, the deviation of each data point from the mean is calculated by subtracting the mean from each data point. Some deviations will be positive (data points above the mean) and some will be negative (data points below the mean). When you add up all these deviations, the sum will always be zero.
+	* Yes, indeed. Exploiting the property that the sum of deviations from the mean adds up to zero can simplify algebraic calculations significantly, especially in statistical contexts. This property allows many terms to cancel out when dealing with products of deviations, leading to simpler expressions and computations.
+
+Variance:
+	* Thus, a measure of variability can be useful for measuring the quality of machined parts. The smaller the variability the better the
+	  quality.	
+	* average squared deviation of the data points from their mean
+
+Standard deviation:	
+	* The standard deviation of a set of observations is the (positive) square root of the variance of the set.		
+

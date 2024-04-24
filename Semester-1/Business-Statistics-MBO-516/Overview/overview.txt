@@ -1,0 +1,7 @@
+After completing this course, you should be able to:
+-------------------------------------------------------
+select appropriate statistical techniques for practical data analysis
+analyse and interpret the results obtained from a range of statistical techniques
+use the output from statistical analysis to aid in complex business decisions in today's highly globalised world
+present the results of data analyses and explorations to a professional audience that might include policymakers and global business leaders
+make decisions based on statistical analyses in a given work situation as you take up the role of a senior manager in an organisation.
