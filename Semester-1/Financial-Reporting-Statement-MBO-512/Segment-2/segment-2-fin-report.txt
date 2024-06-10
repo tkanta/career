@@ -1,0 +1,61 @@
+Dear Learners,
+
+The following topics will be covered during Webinar - 2
+
+Double-Entry Framework
+General Journal & General Ledger
+Trial Balance
+
+You are requested to go through the Videos and Reading Materials of these topics before attending the webinar which will help you in comprehending the concepts better.
+
+
+=========================== Webinar Part A ======================================
+
+* Double entry system of book keeping
+	
+	* Steps of book keeping
+
+	Science is the format we used
+	Arts is the guidelines we used.
+
+	Total Asset = Capital(shareholder equity) + Liability
+
+	cash = cash is used for running biz (Asset)
+	Capital = INtial amt. 	
+
+	Debtor is a short term asset.
+	Creditor is a short term liability (< 1yrs)
+	outstanding salary is short term liability
+
+	Stock ramains for more than one year is an asset.
+
+* Prepare accounting equation:
+	- if cash is not mentation but name in a statement, than it is on credit
+	- if cash or name, both is not mentation in a statement than it is on cash	
+
+* Classification of accounts
+
+* Asset
+	current Asset: used within one year. cash, bank balance, Debtors(bills receivable)
+	Fixed Asset: Used more than one year(land, building)
+
+* Liability:
+	long term : loan for 5 years or more
+	current: loan that is going to be closed in this year, creditors (bills payable), salary outstanding
+
+* Capital : share holder's equity, Owner intial amount etc.
+
+* Goods:
+	* Stock is an short term asset	
+
+* Debtors:
+	- provision on debtors to prevent loss and that will be carried forward if no loss.
+
+* Solvency and Insolvency deals with working capital management (current asset / liability ).
+	- A company should have more current asset, shortterm security (easily converted to cash) than current liability
+	- If insolvency continues, in short time the business has to be shutdown
+
+
+
+=========================== Webinar Part B ======================================
+

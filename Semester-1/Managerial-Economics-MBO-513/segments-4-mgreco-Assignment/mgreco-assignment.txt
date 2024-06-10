@@ -1,0 +1,190 @@
+
+Hide Assignment Information
+Instructions
+Instructions
+
+-Answer all the questions.
+
+-Your responses are subjected to a Plagiarism check. Therefore, your responses should be original and in your own words.
+
+QUESTION :
+
+
+Explain different types of elasticity of demand with the help of diagrams.
+
+Total Marks: 12
+
+Criteria/Description   Marks
+--------------------------------
+Price elasticity of demand with meaning, equation, and its types with the help of diagrams  6 marks
+Income elasticity of demand with meaning and equation  2 marks
+Cross elasticity of demand with meaning and equation   2 marks
+Advertisement/promotional elasticity of demand with meaning and equation 2 marks
+
+-------------------------------------------- Answer --------------------------------------------------
+
+Price Elasticity of Demand: Explanation, Equation, and Types
+Introduction
+Price elasticity of demand (PED) measures the responsiveness of the quantity demanded of a good to a change in its price. It is a crucial concept in economics, helping businesses and policymakers understand how changes in price can affect demand for a product or service.
+
+Definition and Equation
+Price elasticity of demand is defined as the percentage change in quantity demanded divided by the percentage change in price. The formula for calculating PED is:
+
+
+Interpretation of PED Values
+PED > 1: Demand is elastic (quantity demanded changes by a greater percentage than the price change).
+PED < 1: Demand is inelastic (quantity demanded changes by a smaller percentage than the price change).
+PED = 1: Demand is unitary elastic (quantity demanded changes by the same percentage as the price change).
+PED = 0: Demand is perfectly inelastic (quantity demanded does not change with a price change).
+PED = ∞: Demand is perfectly elastic (quantity demanded changes infinitely with any price change).
+Types of Price Elasticity of Demand
+Perfectly Inelastic Demand (PED = 0)
+
+Description: Quantity demanded does not change regardless of price changes.
+
+Diagram: Vertical demand curve.
+
+
+
+Inelastic Demand (0 < PED < 1)
+
+Description: Quantity demanded changes by a smaller percentage than the price change.
+
+Diagram: Steep downward-sloping demand curve.
+
+
+
+Unitary Elastic Demand (PED = 1)
+
+Description: Quantity demanded changes by the same percentage as the price change.
+
+Diagram: Rectangular hyperbola demand curve.
+
+
+
+Elastic Demand (PED > 1)
+
+Description: Quantity demanded changes by a greater percentage than the price change.
+
+Diagram: Flat downward-sloping demand curve.
+
+
+
+Perfectly Elastic Demand (PED = ∞)
+
+Description: Quantity demanded changes infinitely with any price change.
+
+Diagram: Horizontal demand curve.
+
+
+
+Diagrams and Explanation
+Let’s visualize these types of elasticity with appropriate diagrams:
+
+Perfectly Inelastic Demand
+Diagram:
+
+python
+Copy code
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Perfectly Inelastic Demand
+plt.figure(figsize=(5, 5))
+plt.axvline(x=10, color='blue', linestyle='-', linewidth=2)
+plt.axhline(y=0, color='black', linewidth=0.5)
+plt.axvline(x=0, color='black', linewidth=0.5)
+plt.text(11, 50, 'D', fontsize=12, color='blue')
+plt.title('Perfectly Inelastic Demand')
+plt.xlabel('Quantity')
+plt.ylabel('Price')
+plt.xlim(0, 20)
+plt.ylim(0, 100)
+plt.grid(True)
+plt.show()
+Inelastic Demand
+Diagram:
+
+python
+Copy code
+# Inelastic Demand
+plt.figure(figsize=(5, 5))
+x = np.linspace(0, 20, 100)
+y = 100 - 2*x
+plt.plot(x, y, color='blue', linestyle='-', linewidth=2)
+plt.axhline(y=0, color='black', linewidth=0.5)
+plt.axvline(x=0, color='black', linewidth=0.5)
+plt.text(16, 70, 'D', fontsize=12, color='blue')
+plt.title('Inelastic Demand')
+plt.xlabel('Quantity')
+plt.ylabel('Price')
+plt.xlim(0, 20)
+plt.ylim(0, 100)
+plt.grid(True)
+plt.show()
+Unitary Elastic Demand
+Diagram:
+
+python
+Copy code
+# Unitary Elastic Demand
+plt.figure(figsize=(5, 5))
+x = np.linspace(0, 20, 100)
+y = 100 / x
+plt.plot(x, y, color='blue', linestyle='-', linewidth=2)
+plt.axhline(y=0, color='black', linewidth=0.5)
+plt.axvline(x=0, color='black', linewidth=0.5)
+plt.text(15, 10, 'D', fontsize=12, color='blue')
+plt.title('Unitary Elastic Demand')
+plt.xlabel('Quantity')
+plt.ylabel('Price')
+plt.xlim(0, 20)
+plt.ylim(0, 100)
+plt.grid(True)
+plt.show()
+Elastic Demand
+Diagram:
+
+python
+Copy code
+# Elastic Demand
+plt.figure(figsize=(5, 5))
+x = np.linspace(0, 20, 100)
+y = 100 - 0.5*x
+plt.plot(x, y, color='blue', linestyle='-', linewidth=2)
+plt.axhline(y=0, color='black', linewidth=0.5)
+plt.axvline(x=0, color='black', linewidth=0.5)
+plt.text(16, 80, 'D', fontsize=12, color='blue')
+plt.title('Elastic Demand')
+plt.xlabel('Quantity')
+plt.ylabel('Price')
+plt.xlim(0, 20)
+plt.ylim(0, 100)
+plt.grid(True)
+plt.show()
+Perfectly Elastic Demand
+Diagram:
+
+python
+Copy code
+# Perfectly Elastic Demand
+plt.figure(figsize=(5, 5))
+plt.axhline(y=50, color='blue', linestyle='-', linewidth=2)
+plt.axhline(y=0, color='black', linewidth=0.5)
+plt.axvline(x=0, color='black', linewidth=0.5)
+plt.text(15, 52, 'D', fontsize=12, color='blue')
+plt.title('Perfectly Elastic Demand')
+plt.xlabel('Quantity')
+plt.ylabel('Price')
+plt.xlim(0, 20)
+plt.ylim(0, 100)
+plt.grid(True)
+plt.show()
+Conclusion
+Price elasticity of demand is a fundamental concept in economics, providing insight into how sensitive consumers are to price changes. By understanding the types of elasticity, businesses can better anticipate changes in demand in response to price fluctuations, enabling more effective pricing strategies. Each type of elasticity—from perfectly inelastic to perfectly elastic—illustrates different consumer behaviors and market conditions.
+
+
+
+
+======================= Income Elasticity ================================
+

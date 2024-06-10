@@ -1,0 +1,63 @@
+Dear Learners,
+
+The following topics will be covered during Webinar - 2
+
+Assigning Probabilities to Events
+Conditional Probability
+Rules of Probability
+Probability Trees and Bayes' Rule 
+You are requested to go through the Videos and Reading Materials of these topics before attending the webinar which will help you in comprehending the concepts better.
+
+
+=================================== Webinar ======================================
+
+ 
+probability is the possible outcome of an event from many
+not sure of which one you will get is uncertainity
+
+enahancing the capability of probabilistic situation
+
+	- Diagnostic testing
+	- Drug development
+	- Market forcasting
+	- Investment decision
+
+Random Experiment:
+	tossing a coin
+	Ec conducting a election
+
+Trial and event:
+	 random experiment is called trial and outcome is the event
+
+Sample space:
+	total possible outcomes	of an experiment, each outcome is an event.
+
+Exhaustive cases:
+	sum of all number of sample space
+	sample space is a set, exhaustive case = count# of sample space
+	
+Favourable cases:
+	drawing a spade from 52 is 13
+
+Mutually exclusive cases:
+	one or other
+
+
+Probability
+	classical approach
+		P() = FC/EC 
+
+	Relative frequency approach:		
+		experiment is repeated a lot of time.
+
+	Subjective approach:
+
+Union / intersection / complement of two sets:
+
+condutional probability:
+
+Independent Event:
+
+
+
+Explain addition threorem of probability?

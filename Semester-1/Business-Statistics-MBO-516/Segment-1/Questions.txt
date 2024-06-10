@@ -1,0 +1,53 @@
+Question 1 (0.6 points) 
+ Saved
+Which of the following would be a suitable graphical method of capture the responses given by customers for a service such as banking or hotel?
+
+Question 1 options:
+
+Scatter plot
+Bar chart
+Histogram
+Box plot
+
+Question 2 (0.6 points) 
+A large data set has a mean of 15. If one of its data points, 13, were changed to 14, what would happen to the mean and the variance?
+
+Question 2 options:
+
+Both the mean and the variance would decrease.
+The mean would decrease but the variance would increase.
+The mean would increase but the variance would decrease.
+Both the mean and the variance would increase.
+
+Question 3 (0.6 points) 
+ Saved
+Which of the following would be a suitable graphical method of presenting the relationship between age and annual income?
+
+Question 3 options:
+
+Bar chart
+Histogram
+Scatter plot
+Pie chart
+
+Question 4 (0.6 points) 
+ Saved
+‘Rank of an athlete in a tournament’ is a good example for which of the following scale of measurement?
+
+Question 4 options:
+
+Ratio scale
+Ordinal scale
+Interval scale
+Nominal scale
+
+Question 5 (0.6 points) 
+ Saved
+Which of the following would be a suitable graphical method of presenting the relationship between speed and milage of an automobile?
+
+Question 5 options:
+
+Histogram
+Bar chart
+Pie chart
+Scatter plot

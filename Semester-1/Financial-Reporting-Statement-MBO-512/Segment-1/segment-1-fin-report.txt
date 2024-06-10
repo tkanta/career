@@ -11,3 +11,132 @@ cash flow statement
 classification of ac (traditional(eng.) + new(US))	
 Janet Sylvia Fernandes - 23254040051
 	Equity is the investment in a company. Revenue is the profit u earn from the day today activities of the business 
+
+
+========================= Self Study ==========================
+
+RM-Topic 1-Financial Report
+
+RM-Topic 2-Users of Financial Information
+	* Capital adequacy ratio : It is the ratio which determines the bank's capacity to meet the time liabilities and other risks such as credit risk, operational risk etc. In the most simple formulation, a bank's capital is the "cushion" for potential losses, and protects the bank's depositors and other lenders.
+	* https://www.ge.com/investor-relations/annual-report
+
+RM-Topic 3-Conceptual Framework
+	* Objectivity
+	* Qualitative Characteristics
+	* Elelements of financial statements
+	* Recognition and Measurement basis	
+
+RM-Topic 4-Regulatory Framework
+	* 
+
+
+webinar:
+	Accounting is an art of 
+
+	Features of Accouning:
+		Identify:
+		Measure:
+		Classifying: Asset(Building), Liability(Loan), Income(Profit)
+		Recording:	
+		Summarising: Classified entries are in right place.
+		Analysing:	
+		Interpretation:
+		Communicating: To end users 
+
+	Accounting Cycle:
+		Identify Business Transaction (needs a proof)
+		Record Journal Entries (Journalizing)
+		Preparing Ledger from journal entry (Posting)
+		unadjusted trial Balance ( adjustment in terms of credit transaction,  )
+		Adjusted Entries ( After clearing dues)
+		Adjusted trial balance
+		Financial statement
+		Close the Book for the Year
+			Statement analysis
+
+	Objective and Importance of Accounting:
+		Maintain proper record (documentary evidence)
+		Know source of revenue (sales) and expenditure (salary, rent, wages, fuel, bad debt, depretiation)
+		Ascertainment of amount due to business (debtor) and due from business (Creditors)
+		Ensuring effective control over performance of business ( proper use of asset that depreciates )
+		Prevention of error and frauds
+		Ascertain profit/loss
+		Ascertainment of financial position ( market value of liability / asset )
+		Making financial information available to public
+
+	Component of the financial report.
+		Corporate review information: Main activities such as HR, Finance, marketing, manufacturing
+		Operation review information: Product and services
+		Financial review information: Analysis of statement.how they raise finance and its usage.
+		Financial statement : Summary of the position of the business.
+		Notes to the financial statement : concept and convention of accounting standard used for preparing financial report.
+		External Auditor report : A Company has internal auditors and also reviewed by external auditor. They review entire financial statement
+		Selected unaudited financial data
+			A company preparing quaterly financial statement, may not be audited. Generally the annual statement is audited
+		Stock market data
+			Company dealing with stock market provides these data
+			Small scale biz. may not provides these data as they may not be invloved in stock
+	
+	Audit report:
+		A clean opinion
+		A qualified opinion (When some parameter are not met but overall failrly met) 
+		An Adverse opinion (Business hasn't followed accounting principle)	
+
+	Theory Base of Accounting:
+		FASB:
+		IFRS:
+		IAS:
+
+		Accounting Principle:
+			Concepts 
+				Business entity concept (Capital is owners equity)
+				Concept of continuity (Asset (Debtors) and Liability (Loan) are long and short term. Business will be run for longer period or infinite time)
+				Money measurement concept (momey is the only practical measurement)
+				Cost concept ( Asset is shown as cost price / purchase price, even if its value is more now)
+				Dual aspect concept (receiving / giving benefit are of same value)
+				Accounting period concept (Financial (Banks follows) / Calander Year)
+				Revenue realization concept (Revenue reliazed may not be same as cash received)
+				Accrual concept (Recognition of both revenue and expenditure)
+				maching concept
+				Objective evidence concept
+
+			Conventions		
+				Conservatism
+				Consistency
+				Disclosure
+				Materiality
+
+	Financial Statements:
+		Income Statement:
+			Revenue + Expense = Net profit/Loss
+
+		Statement of changes in Equity
+			Time value of money, money value will decrease over time if you don't invest. Generally company don't retain profit as retained earning, instead they invest it or give it to shareholders as dividends.If they company wants to keep the profit they need to show it as retained earning in financial statement.
+
+		Balance Sheet:
+			Total Asset = Capital (owner or shareholder equity) + Liability
+
+		Cash Flow statement
+			Operating Activities: day to day activities
+			Investing Activities: Company investment on land, other company etc.
+			Fianacing Activities : Raising of money from VC, Dividents etc.
+			This is sopporting statement.
+
+		Equity and debentures:
+			Debentures: For raising money, company can go for debentures or loan for which the company has to pay interest.
+			Equity: For raising money the company can also issues shares but here the company may provide divident but is not liable.
+
+    Users of Accounting / Financial information:
+    		Internal users
+    		External Users
+
+
+Refer P.S.Grewal
+
+Questions:
+Question 1: Components of a Financial Report
+Question 2: Standard for Accounting Policies, methods & procedures
+Question 3: Qualitative Characteristics of Accounting Information
+Question 4: Audit Report
+Question 5: Users of Financial Information

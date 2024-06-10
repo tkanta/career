@@ -1,0 +1,82 @@
+
+
+Following are the transactions. You are required to:
+
+Identify Accounting transactions & pass journal entries (in the journal format).
+
+Also identify Non – Accounting transactions (if any) & give a note regarding the same.
+
+
+Jan 1, Opened SB A/c with Vijaya Bank ₹. 50,000
+
+Jan 8, Bought office furniture for cash ₹.8,000.
+
+Jan 15, Appointed Mr. Sathish as manager with a monthly salary of ₹.5,000 per month.
+
+Jan 23, Received commission from Pavithra ₹.3,500.
+
+Jan 30, Paid salary to manager ₹.15,000.
+
+
+
+
+------------------------- Answer --------------------------------------------------------
+
+Here is the identification and journalization of the accounting and non-accounting transactions:
+
+Accounting Transactions & Journal Entries:
+
+Jan 1: Opened SB A/c with Vijaya Bank ₹. 50,000
+Journal Entry:
+
+Date         Account Title and Explanation          Debit (₹)    Credit (₹)
+--------------------------------------------------------------------------------
+Jan 1        Bank A/c                                 50,000
+                   To Cash A/c                                        50,000
+             (Being SB A/c opened with Vijaya Bank)
+
+Jan 8: Bought office furniture for cash ₹. 8,000
+Journal Entry:
+
+Date         Account Title and Explanation          Debit (₹)    Credit (₹)
+--------------------------------------------------------------------------------
+Jan 8        Purchases A/c                      8,000
+                   To Cash A/c                                         8,000
+             (Being office furniture bought for cash)
+
+Jan 23: Received commission from Pavithra ₹. 3,500
+Journal Entry:
+
+Date         Account Title and Explanation          Debit (₹)    Credit (₹)
+--------------------------------------------------------------------------------
+Jan 23       Bank A/c                                  3,500
+                   To Commission Received A/c                          3,500
+             (Being commission received from Pavithra)
+
+Jan 30: Paid salary to manager ₹. 15,000
+Journal Entry:
+
+Date         Account Title and Explanation          Debit (₹)    Credit (₹)
+--------------------------------------------------------------------------------
+Jan 30       Salary Expense A/c                       15,000
+                   To Bank A/c                                         15,000
+             (Being salary paid to manager)
+
+Non-Accounting Transactions:
+	Jan 15: Appointed Mr. Sathish as manager with a monthly salary of ₹.5,000 per month
+
+Note:
+	This is a non-accounting transaction because it is an internal decision and does not involve any financial transaction that needs to be recorded in the books of accounts. There is no immediate financial impact until the salary is actually paid or becomes due.
+
+Summary:
+	Accounting Transactions:
+
+		Opening bank account with ₹. 50,000
+		Buying office furniture for ₹. 8,000
+		Receiving commission of ₹. 3,500
+		Paying salary to the manager of ₹. 15,000
+
+	Non-Accounting Transactions:
+		Appointing Mr. Sathish as manager
+
+These journal entries and notes should be recorded in the books of accounts as per the stand
